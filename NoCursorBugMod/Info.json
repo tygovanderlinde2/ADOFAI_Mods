@@ -1,0 +1,8 @@
+{
+  "ID": "NoCursorBug",
+  "DisplayName": "NoCursorBug",
+  "Author": "ChocoSwi",
+  "Version": "1.0",
+  "AssemblyName": "NoCursorBug.dll",
+  "EntryMethod": "NoCursorBug.Main.Load"
+}

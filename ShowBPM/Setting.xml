@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <onTileBpm>true</onTileBpm>
+  <onCurBpm>true</onCurBpm>
+  <onRecommandKPS>true</onRecommandKPS>
+  <useShadow>false</useShadow>
+  <ignoreMultipress>false</ignoreMultipress>
+  <useBold>false</useBold>
+  <showSpeedText>false</showSpeedText>
+  <showSpeedTextMode>1</showSpeedTextMode>
+  <x>0.979999959</x>
+  <y>0.98999995</y>
+  <size>25</size>
+  <align>2</align>
+  <showDecimal>2</showDecimal>
+  <zero>true</zero>
+  <text1>BPM - {value}</text1>
+  <text2>REAL BPM - {value}</text2>
+  <text3>KPS - {value}</text3>
+</Setting>

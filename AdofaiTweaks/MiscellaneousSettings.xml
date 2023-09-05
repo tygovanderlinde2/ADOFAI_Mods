@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MiscellaneousSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsEnabled>false</IsEnabled>
+  <IsExpanded>true</IsExpanded>
+  <DisableGlitchFlip>false</DisableGlitchFlip>
+  <DisableEditorZoom>false</DisableEditorZoom>
+  <SetHitsoundVolume>false</SetHitsoundVolume>
+  <HitsoundVolumeScale>1</HitsoundVolumeScale>
+  <HitsoundForceVolume>false</HitsoundForceVolume>
+  <HitsoundIgnoreStartingValue>false</HitsoundIgnoreStartingValue>
+  <SetBpmOnStart>false</SetBpmOnStart>
+  <Bpm>100</Bpm>
+  <SyncInputStateToInputOptions>true</SyncInputStateToInputOptions>
+</MiscellaneousSettings>

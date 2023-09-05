@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JudgmentVisualsSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsEnabled>true</IsEnabled>
+  <IsExpanded>false</IsExpanded>
+  <ShowHitErrorMeter>false</ShowHitErrorMeter>
+  <ErrorMeterScale>1</ErrorMeterScale>
+  <ErrorMeterXPos>0.329999983</ErrorMeterXPos>
+  <ErrorMeterYPos>0.48999998</ErrorMeterYPos>
+  <ErrorMeterTickLife>4</ErrorMeterTickLife>
+  <ErrorMeterSensitivity>0.2</ErrorMeterSensitivity>
+  <HidePerfects>true</HidePerfects>
+</JudgmentVisualsSettings>

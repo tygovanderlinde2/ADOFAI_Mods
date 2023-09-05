@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ChangeFont>false</ChangeFont>
+  <DebugMode>false</DebugMode>
+  <AdofaiFont>
+    <name>Default</name>
+    <lineSpacing>1</lineSpacing>
+    <fontScale>0.5</fontScale>
+  </AdofaiFont>
+  <Lang>English</Lang>
+  <DisableScript>false</DisableScript>
+  <FPSUpdateRate>100</FPSUpdateRate>
+  <FrameTimeUpdateRate>100</FrameTimeUpdateRate>
+</Settings>

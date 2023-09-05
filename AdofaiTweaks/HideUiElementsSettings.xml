@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HideUiElementsSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsEnabled>false</IsEnabled>
+  <IsExpanded>true</IsExpanded>
+  <PlayingProfile>
+    <HideEverything>false</HideEverything>
+    <HideJudgment>false</HideJudgment>
+    <HideMissIndicators>false</HideMissIndicators>
+    <HideTitle>false</HideTitle>
+    <HideOtto>false</HideOtto>
+    <HideTimingTarget>false</HideTimingTarget>
+    <HideNoFailIcon>false</HideNoFailIcon>
+    <HideBeta>false</HideBeta>
+    <HideResult>false</HideResult>
+    <HideHitErrorMeter>false</HideHitErrorMeter>
+    <HideLastFloorFlash>false</HideLastFloorFlash>
+  </PlayingProfile>
+  <RecordingProfile>
+    <HideEverything>false</HideEverything>
+    <HideJudgment>false</HideJudgment>
+    <HideMissIndicators>false</HideMissIndicators>
+    <HideTitle>false</HideTitle>
+    <HideOtto>false</HideOtto>
+    <HideTimingTarget>false</HideTimingTarget>
+    <HideNoFailIcon>false</HideNoFailIcon>
+    <HideBeta>false</HideBeta>
+    <HideResult>false</HideResult>
+    <HideHitErrorMeter>false</HideHitErrorMeter>
+    <HideLastFloorFlash>false</HideLastFloorFlash>
+  </RecordingProfile>
+  <RecordingMode>false</RecordingMode>
+  <UseRecordingModeShortcut>false</UseRecordingModeShortcut>
+  <RecordingModeShortcut>
+    <PressCtrl>true</PressCtrl>
+    <PressShift>false</PressShift>
+    <PressAlt>false</PressAlt>
+    <PressKey>F8</PressKey>
+  </RecordingModeShortcut>
+  <HideEverything>false</HideEverything>
+  <HideJudgment>false</HideJudgment>
+  <HideMissIndicators>false</HideMissIndicators>
+  <HideTitle>false</HideTitle>
+  <HideOtto>false</HideOtto>
+  <HideBeta>false</HideBeta>
+</HideUiElementsSettings>

@@ -1,0 +1,566 @@
+[
+  {
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": true,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "Default",
+    "Name": "attemps",
+    "PlayingText": "{Attempts}",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.58,
+      "y": 0.042,
+      "normalized": {
+        "x": 0.997388363,
+        "y": 0.07222468,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 0.5815187,
+      "sqrMagnitude": 0.338163972
+    },
+    "FontSize": 30.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "ShadowColor": {
+      "topLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "topRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      }
+    }
+  },
+  {
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": false,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "Default",
+    "Name": "best",
+    "PlayingText": "{BestProgress}",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.5,
+      "y": 0.01,
+      "normalized": {
+        "x": 0.9998,
+        "y": 0.019996,
+        "normalized": {
+          "x": 0.9998001,
+          "y": 0.0199960023,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 0.5001,
+      "sqrMagnitude": 0.2501
+    },
+    "FontSize": 30.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "ShadowColor": {
+      "topLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "topRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      }
+    }
+  },
+  {
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": true,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "Default",
+    "Name": "CPs",
+    "PlayingText": "{CheckPoint}",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.43,
+      "y": 0.042,
+      "normalized": {
+        "x": 0.995263755,
+        "y": 0.0972118,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.4320463,
+      "sqrMagnitude": 0.186664
+    },
+    "FontSize": 30.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "ShadowColor": {
+      "topLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "topRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      }
+    }
+  },
+  {
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": true,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "Default",
+    "Name": "hits",
+    "PlayingText": "<color=#{FOHex}>{Overloads}</color> <color=#{TEHex}>{CurTE}</color> <color=#{VEHex}>{CurVE}</color> <color=#{EPHex}>{CurEP}</color> <color=#{PHex}>{CurP}</color> <color=#{LPHex}>{CurLP}</color> <color=#{VLHex}>{CurVL}</color> <color=#{TLHex}>{CurTL}</color> <color=#{FMHex}>{MissCount}</color>",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.5,
+      "y": 0.075,
+      "normalized": {
+        "x": 0.988936365,
+        "y": 0.148340464,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 0.5055937,
+      "sqrMagnitude": 0.255625
+    },
+    "FontSize": 44.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "ShadowColor": {
+      "topLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "topRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      }
+    }
+  },
+  {
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": true,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "Default",
+    "Name": "msTiming",
+    "PlayingText": "{Timing(10)}",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.5,
+      "y": 0.01,
+      "normalized": {
+        "x": 0.9998,
+        "y": 0.019996,
+        "normalized": {
+          "x": 0.9998001,
+          "y": 0.0199960023,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 0.5001,
+      "sqrMagnitude": 0.2501
+    },
+    "FontSize": 30.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "ShadowColor": {
+      "topLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "topRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      }
+    }
+  },
+  {
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": false,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "Default",
+    "Name": "ProgressBar",
+    "PlayingText": "{CTprogressbar}",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.5,
+      "y": 1.015,
+      "normalized": {
+        "x": 0.441902876,
+        "y": 0.897062838,
+        "normalized": {
+          "x": 0.4419029,
+          "y": 0.8970629,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 1.13147032,
+      "sqrMagnitude": 1.28022492
+    },
+    "FontSize": 40.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "ShadowColor": {
+      "topLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "topRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "bottomLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "bottomRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  {
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": true,
+    "IsExpanded": true,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "Default",
+    "Name": "top-left",
+    "PlayingText": "Progress: {StartProgress(2)}% - {Progress(2)}%\nX-Acc: {CXAccuracy}\nDate: {Day}/{Month}\nTime: {ConvertedTime}\nSong: {SongTime}\nTile: {CurTile} / {TotalTile}\nCheckPoints: {CurCheckPoint} / {TotalCheckPoint}\nDifficulty: {PredictedDifficulty}",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.00565,
+      "y": 1.0,
+      "normalized": {
+        "x": 0.00564991,
+        "y": 0.999984,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 1.000016,
+      "sqrMagnitude": 1.000032
+    },
+    "FontSize": 25.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "ShadowColor": {
+      "topLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "topRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomLeft": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      },
+      "bottomRight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.4
+      }
+    }
+  }
+]

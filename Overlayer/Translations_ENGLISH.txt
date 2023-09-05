@@ -1,0 +1,228 @@
+SHit:HitMargin in Strict Difficulty
+STE:TooEarly in Strict Difficulty
+SVE:VeryEarly in Strict Difficulty
+SEP:EarlyPerfect in Strict Difficulty
+SP:Perfect in Strict Difficulty
+SLP:LatePerfect in Strict Difficulty
+SVL:VeryLate in Strict Difficulty
+STL:TooLate in Strict Difficulty
+NHit:HitMargin in Normal Difficulty
+NTE:TooEarly in Normal Difficulty
+NVE:VeryEarly in Normal Difficulty
+NEP:EarlyPerfect in Normal Difficulty
+NP:Perfect in Normal Difficulty
+NLP:LatePerfect in Normal Difficulty
+NVL:VeryLate in Normal Difficulty
+NTL:TooLate in Normal Difficulty
+LHit:HitMargin in Lenient Difficulty
+LTE:TooEarly in Lenient Difficulty
+LVE:VeryEarly in Lenient Difficulty
+LEP:EarlyPerfect in Lenient Difficulty
+LP:Perfect in Lenient Difficulty
+LLP:LatePerfect in Lenient Difficulty
+LVL:VeryLate in Lenient Difficulty
+LTL:TooLate in Lenient Difficulty
+CurHit:HitMargin in Current Difficulty
+CurTE:TooEarly in Current Difficulty
+CurVE:VeryEarly in Current Difficulty
+CurEP:EarlyPerfect in Current Difficulty
+CurP:Perfect in Current Difficulty
+CurLP:LatePerfect in Current Difficulty
+CurVL:VeryLate in Current Difficulty
+CurTL:TooLate in Current Difficulty
+CurDifficulty:Current Difficulty
+KeyJudge:KeyCode\:Judgement
+CurKps:Current KPS
+Radius:Current Planet's Radius
+Pitch:Current Pitch
+EditorPitch:Pitch In Editor
+TEHex:TooEarly Judgement Hex Code
+VEHex:VeryEarly Judgement Hex Code
+EPHex:EarlyPerfect Judgement Hex Code
+PHex:Perfect Judgement Hex Code
+LPHex:LatePerfect Judgement Hex Code
+VLHex:VeryLate Judgement Hex Code
+TLHex:TooLate Judgement Hex Code
+MPHex:Multipress Judgement Hex Code
+FMHex:FailMiss Judgement Hex Code
+FOHex:FailOverload Judgement Hex Code
+Title:Title
+Author:Author
+Artist:Artist
+StartTile:Start Tile
+Difficulty:Difficulty Of Current Level
+Accuracy:Accuracy
+Progress:Progress
+CheckPoint:Check Point Used Count
+CurCheckPoint:Current Check Point Index
+TotalCheckPoint:Total Check Points Count
+XAccuracy:XAccuracy
+FailCount:Fail Count
+MissCount:Miss Count
+Overloads:Overload Count
+CurBpm:Perceived Bpm
+TileBpm:Tile Bpm
+RecKps:Perceived KPS
+BestProgress:Best Progress
+LeastCheckPoint:Least Check Point Used Count
+StartProgress:Start Progress
+CurMinute:Now Minute Of Music
+CurSecond:Now Second Of Music
+CurMilliSecond:Now MilliSecond Of Music
+TotalMinute:Total Minute Of Music
+TotalSecond:Total Second Of Music
+TotalMilliSecond:Total MilliSecond Of Music
+LeftTile:Left Tile Count
+TotalTile:Total Tile Count
+CurTile:Current Tile Count
+Attempts:Current Level Try Count
+Year:Year Of System Time
+Month:Month Of System Time
+Day:Day Of System Time
+Hour:Hour Of System Time
+Minute:Minute Of System Time
+Second:Second Of System Time
+MilliSecond:MilliSecond Of System Time
+Multipress:Multipress Count
+Combo:Combo
+Fps:Frame Rate
+FrameTime:FrameTime
+ProcessorCount:CPU Core's Count
+MemoryGBytes:Total Physics Memory Size (GigaBytes)
+CpuUsage:Adofai's Cpu Usage (Percentage)
+TotalCpuUsage:Total Cpu Usage (Percentage)
+MemoryUsage:Adofai's Memory Usage (Percentage)
+TotalMemoryUsage:Total Memory Usage (Percentage)
+MemoryUsageGBytes:Adofai's Memory Usage (GigaBytes)
+TotalMemoryUsageGBytes:Total Memory Usage (GigaBytes)
+PlayPoint:PlayPoint(PP) In Adofai.gg
+ProgressDeath:Death Count For Progress
+Score:Score in Current Difficulty
+LScore:Score in Lenient Difficulty
+NScore:Score in Normal Difficulty
+SScore:Score in Strict Difficulty
+Timing:Hit Timing
+TimingAvg:Average Hit Timing
+FilterText:Displays Filter
+FlashText:Displays Flash
+BloomText:Displays Bloom
+ResetOnStart:Reset Stats On Start
+KPSUpdateRate:KPS UpdateRate
+FPSUpdateRate:FPS UpdateRate
+PerfStatUpdateRate:Performance Status UpdateRate
+FrameTimeUpdateRate:FrameTime UpdateRate
+AddAllJudgementsAtErrorMeter:Add All Judgements At ErrorMeter
+ApplyPitchAtBpmTags:Apply Pitch At Bpm Tags
+DeathMessage:Death Message
+NewCustomTag:New Custom Tag
+EditCustomTag:Edit Custom Tag
+AddText:Add Text
+CustomTag:Custom Tag
+IsErrorOccured:Is Error Occured
+PlzChkYourExpr:Please Check Your Expression
+ExceptionAt:Exception At
+Constants:Constants
+Functions:Functions
+cos:Cosine
+cosh:Hyperbolic Cosine
+sin:Sine
+sinh:Hyperbolic Sine
+tan:Tangent
+tanh:Hyperbolic Tangent
+abs:Absolute Value
+acos:Arc Cosine
+asin:Arc Sine
+atan:Arc Tangent
+sqrt:Square Root
+max:Max Value
+min:Min Value
+pow:Power
+exp:Exponential
+round:Rounding
+ceil:Ceiling
+floor:Floor
+truncate:Truncate
+if:If {condition} a Else b
+tostring:Number or Boolean To String
+log:Logarithm
+pi:PI
+e:Euler's Number
+radDeg:Radian To Degree
+degRad:Degree To Radian
+NameCannotBeEmpty:Name Cannot Be Empty!
+ExprCannotBeEmpty:Expression Cannot Be Empty!
+InvalidToken:Invalid Token
+MissingCloseParenthesis:Missing Close Parenthesis
+Tag:Tag
+Function:Function
+Active:Active
+TextXPos:Text X-Position
+TextYPos:Text Y-Position
+TextAlignment:Text Alignment
+Text:Text
+Reset:Reset
+TextSize:Text Size
+TextFont:Text Font
+LogFontList:Log Font List
+TextColor:Text Color
+ShadowColor:Shadow Color
+Gradient:Gradient
+TopLeft:Top Left
+TopRight:Top Right
+BottomLeft:Bottom Left
+BottomRight:Bottom Right
+TextDisplayedWhenNotPlaying:Text Displayed When Not Playing
+Refresh:Refresh
+Destroy:Destroy
+Alignment:Alignment
+NotPlaying:Not Playing
+Name:Name
+Description:Description
+Expression:Expression
+CanBeUsedNotPlayingText:Can Be Used By Not Playing Text
+CannotBeUsedNotPlayingText:Cannot Be Used By Not Playing Text
+ThisTagIsStringTag:This Tag Is String Tag
+ThisTagIsNumberTag:This Tag Is Number Tag
+Compile:Compile
+Remove:Remove
+CompilationError:Compilation Error
+ThisTag:This Tag
+ArgMustHaveIndex:Arg Must Have Index
+ArgIndexOutOfRange:Argument's Index Has Out Of Range!
+CannotFind:Cannot Find
+EditFunction:Edit Function
+NewFunction:New Function
+ThisFunc:This Function
+ThisFuncIsStringFunc:This Function Is String Function
+ThisFuncIsNumberFunc:This Function Is Number Function
+Number:Number
+String:String
+NewArgument:New Argument
+Index:Index
+Argument:Argument
+random:Random
+randomrange:RandomRange(min, max) 
+getstring:Get String Variable
+setstring:Set String Variable
+getnumber:Get Number Variables
+setnumber:Set Number Variable
+clearstrings:Clear String Variables
+clearnumbers:Clear Number Variables
+ClearMessage:Clear Message
+ReloadCustomTags:Reload Custom Tags
+ReloadInits:Reload Init Files
+AdofaiFont:Change ADOFAI Font
+AdofaiFont_Font:Font
+AdofaiFont_LineSpacing:Line Spacing
+AdofaiFont_FontScale:Scale
+Apply:Apply
+PlayTime:Play Time of Level
+AllowCollectingLevel:Allow Collecting Playing Level
+DebugMode:Overlayer Debug Mode
+ReloadScripts:Reload Scripts
+CleanMemory:Clean Memory
+MaxRecursion:Limit Recursive Calls (Prevent Infinite Loop, Default -1)
+OnlineUsers:Online Users With Overlayer
+OverlayerCustomTagStore:Overlayer Custom Tag Store
+Back:Back
+Upload:Upload

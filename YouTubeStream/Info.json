@@ -1,0 +1,9 @@
+{
+  "Id": "YouTubeStream",
+  "DisplayName": "YouTubeStream",
+  "Author": "HYONSU",
+  "Version": "0.0.5",
+  "AssemblyName": "YouTubeStream.dll",
+  "EntryMethod": "YouTubeStream.Main.Load",
+  "Repository": ""
+}

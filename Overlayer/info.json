@@ -1,0 +1,9 @@
+{
+    "Id": "Overlayer",
+    "DisplayName": "Overlayer",
+    "Author": "c3nb",
+    "Version": "2.7.4",
+    "Repository": "https://bot.adofai.gg/api/mods/Overlayer/Repository.json",
+    "AssemblyName": "Overlayer.dll",
+    "EntryMethod": "Overlayer.Main.Load"
+  }

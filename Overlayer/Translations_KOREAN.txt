@@ -1,0 +1,228 @@
+SHit:<color=#B11A1A>엄격</color> 난이도에서의 판정
+STE:<color=#B11A1A>엄격</color> 난이도에서의 <color=#ED3E3E>너무 빠름</color> 개수
+SVE:<color=#B11A1A>엄격</color> 난이도에서의 <color=#EB9A46>빠름!</color> 개수
+SEP:<color=#B11A1A>엄격</color> 난이도에서의 <color=#E3E370>빠름</color> 개수
+SP:<color=#B11A1A>엄격</color> 난이도에서의 <color=#86E370>정확</color> 개수
+SLP:<color=#B11A1A>엄격</color> 난이도에서의 <color=#E3E370>느림</color> 개수
+SVL:<color=#B11A1A>엄격</color> 난이도에서의 <color=#EB9A46>느림!</color> 개수
+STL:<color=#B11A1A>엄격</color> 난이도에서의 <color=#ED3E3E>너무 느림</color> 개수
+NHit:<color=#FFFFFF>보통</color> 난이도에서의 판정
+NTE:<color=#FFFFFF>보통</color> 난이도에서의 <color=#ED3E3E>너무 빠름</color> 개수
+NVE:<color=#FFFFFF>보통</color> 난이도에서의 <color=#EB9A46>빠름!</color> 개수
+NEP:<color=#FFFFFF>보통</color> 난이도에서의 <color=#E3E370>빠름</color> 개수
+NP:<color=#FFFFFF>보통</color> 난이도에서의 <color=#86E370>정확</color> 개수
+NLP:<color=#FFFFFF>보통</color> 난이도에서의 <color=#E3E370>느림</color> 개수
+NVL:<color=#FFFFFF>보통</color> 난이도에서의 <color=#EB9A46>느림!</color> 개수
+NTL:<color=#FFFFFF>보통</color> 난이도에서의 <color=#ED3E3E>너무 느림</color> 개수
+LHit:<color=#3ACF4E>느슨</color> 난이도에서의 판정
+LTE:<color=#3ACF4E>느슨</color> 난이도에서의 <color=#ED3E3E>너무 빠름</color> 개수
+LVE:<color=#3ACF4E>느슨</color> 난이도에서의 <color=#EB9A46>빠름!</color> 개수
+LEP:<color=#3ACF4E>느슨</color> 난이도에서의 <color=#E3E370>빠름</color> 개수
+LP:<color=#3ACF4E>느슨</color> 난이도에서의 <color=#86E370>정확</color> 개수
+LLP:<color=#3ACF4E>느슨</color> 난이도에서의 <color=#E3E370>느림</color> 개수
+LVL:<color=#3ACF4E>느슨</color> 난이도에서의 <color=#EB9A46>느림!</color> 개수
+LTL:<color=#3ACF4E>느슨</color> 난이도에서의 <color=#ED3E3E>너무 느림</color> 개수
+CurHit:현재 난이도에서의 판정
+CurTE:현재 난이도에서의 <color=#ED3E3E>너무 빠름</color> 개수
+CurVE:현재 난이도에서의 <color=#EB9A46>빠름!</color> 개수
+CurEP:현재 난이도에서의 <color=#E3E370>빠름</color> 개수
+CurP:현재 난이도에서의 <color=#86E370>정확</color> 개수
+CurLP:현재 난이도에서의 <color=#E3E370>느림</color> 개수
+CurVL:현재 난이도에서의 <color=#EB9A46>느림!</color> 개수
+CurTL:현재 난이도에서의 <color=#ED3E3E>너무 느림</color> 개수
+CurDifficulty:현재 난이도
+KeyJudge:(누른 키\:판정)
+CurKps:현재 KPS
+Radius:현재 행성의 반지름
+Pitch:현재 피치
+EditorPitch:에디터 피치
+TEHex:<color=#ED3E3E>너무 빠름</color> 판정 색 코드
+VEHex:<color=#EB9A46>빠름!</color> 판정 색 코드
+EPHex:<color=#E3E370>빠름</color> 판정 색 코드
+PHex:<color=#86E370>정확</color> 판정 색 코드
+LPHex:<color=#E3E370>느림</color> 판정 색 코드
+VLHex:<color=#EB9A46>느림!</color> 판정 색 코드
+TLHex:<color=#ED3E3E>너무 느림</color> 판정 색 코드
+MPHex:<color=#00FFED>다중 입력!</color> 판정 색 코드
+FMHex:<color=#DA59FF>놓침...</color> 판정 색 코드
+FOHex:<color=#DA59FF>과부하...</color> 판정 색 코드
+Title:곡명
+Author:만든이
+Artist:아티스트
+StartTile:시작 타일
+Difficulty:현재 레벨의 판정
+Accuracy:정확도
+Progress:진행도
+CheckPoint:체크포인트 사용 횟수
+CurCheckPoint:현재 체크포인트 번호
+TotalCheckPoint:맵에 있는 체크포인트 개수
+XAccuracy:절대정확도
+FailCount:<color=#DA59FF>실패...</color> 횟수
+MissCount:<color=#DA59FF>놓침...</color> 횟수
+Overloads:<color=#DA59FF>과부하...</color> 횟수
+CurBpm:체감 BPM
+TileBpm:타일 BPM
+RecKps:체감 KPS
+BestProgress:최고기록
+LeastCheckPoint:최소 체크포인트 사용 횟수
+StartProgress:시작지점
+CurMinute:현재 음악의 분
+CurSecond:현재 음악의 초
+CurMilliSecond:현재 음악의 밀리초(1000분의 1초)
+TotalMinute:전체 음악의 분
+TotalSecond:전체 음악의 초
+TotalMilliSecond:전체 음악의 밀리초(1000분의 1초)
+LeftTile:남은 타일 개수
+TotalTile:전체 타일 개수
+CurTile:현재 타일 개수
+Attempts:도전 횟수
+Year:현재 연도
+Month:현재 달
+Day:현재 일
+Hour:현재 시
+Minute:현재 분
+Second:현재 초
+MilliSecond:현재 밀리초(1000분의 1초)
+Multipress:<color=#00FFED>다중 입력!</color> 개수
+Combo:콤보
+Fps:초당 프레임 수
+FrameTime:프레임 간격
+ProcessorCount:CPU의 코어 수
+MemoryGBytes:물리적 메모리 크기 (GB)
+CpuUsage:얼불춤의 CPU 사용량 (%)
+TotalCpuUsage:전체 CPU 사용량 (%)
+MemoryUsage:얼불춤의 메모리 사용량 (%)
+TotalMemoryUsage:전체 메모리 사용량 (%)
+MemoryUsageGBytes:얼불춤의 메모리 사용량 (GB)
+TotalMemoryUsageGBytes:전체 메모리 사용량 (GB)
+PlayPoint:ADOFAI.gg 플레이 포인트
+ProgressDeath:특정 구간에서 죽은 횟수
+Score:현재 난이도에서의 점수
+LScore:<color=#3ACF4E>느슨</color> 난이도에서의 점수
+NScore:<color=#FFFFFF>보통</color> 난이도에서의 점수
+SScore:<color=#B11A1A>엄격</color> 난이도에서의 점수
+Timing:판정 오차
+TimingAvg:판정 오차 평균 ({TimingAvg\:소수점 자릿수} 처럼 사용 가능)
+FilterText:필터를 보여줌
+FlashText:플래시를 보여줌
+BloomText:블룸을 보여줌
+ResetOnStart:시작 시 통계 재설정
+KPSUpdateRate:KPS 업데이트 주기
+FPSUpdateRate:FPS 업데이트 주기
+PerfStatUpdateRate:성능 상태 업데이트 주기
+FrameTimeUpdateRate:프레임 표시시간 업데이트 주기
+AddAllJudgementsAtErrorMeter:판정선에 모든 판정 표시
+ApplyPitchAtBpmTags:BPM 태그에 피치 반영
+DeathMessage:사망 메시지
+NewCustomTag:커스텀 태그 추가
+EditCustomTag:커스텀 태그 편집
+AddText:텍스트 추가
+CustomTag:커스텀 태그
+IsErrorOccured:오류가 발생했습니다
+PlzChkYourExpr:식을 확인해 주세요
+ExceptionAt:오류 발생 위치\:
+Constants:상수
+Functions:함수
+cos:코사인
+cosh:하이퍼볼릭 코사인
+sin:사인
+sinh:하이퍼볼릭 사인
+tan:탄젠트
+tanh:하이퍼볼릭 탄젠트
+abs:절대값
+acos:아크 코사인
+asin:아크 사인
+atan:아크 탄젠트
+sqrt:루트
+max:최대값
+min:최소값
+pow:제곱
+exp:e의 거듭제곱
+round:반올림
+ceil:올림
+floor:버림
+truncate:소수점 버리기
+if:만약 {조건} a 아니면 b
+tostring:숫자 or 참|거짓 -> 문자열
+log:로그
+pi:원주율
+e:자연상수
+radDeg:라디안 -> 각도
+degRad:각도 -> 라디안
+NameCannotBeEmpty:이름은 비어 있을 수 없습니다!
+ExprCannotBeEmpty:식은 비어 있을 수 없습니다!
+InvalidToken:무효한 토큰
+MissingCloseParenthesis:닫는 괄호 부족
+Tag:태그
+Function:함수
+Active:활성화
+TextXPos:텍스트 X좌표
+TextYPos:텍스트 Y좌표
+TextAlignment:텍스트 정렬
+Text:텍스트
+Reset:초기화
+TextSize:텍스트 크기
+TextFont:텍스트 글꼴
+LogFontList:글꼴 목록 로그
+TextColor:텍스트 색
+ShadowColor:그림자 색
+Gradient:그라데이션
+TopLeft:왼쪽 상단
+TopRight:오른쪽 상단
+BottomLeft:왼쪽 하단
+BottomRight:오른쪽 하단
+TextDisplayedWhenNotPlaying:플레이 중이 아닐 시 표시되는 텍스트
+Refresh:새로 고침
+Destroy:파괴
+Alignment:정렬
+NotPlaying:플레이 중이 아님
+Name:이름
+Description:설명
+Expression:식
+CanBeUsedNotPlayingText:플레이 중이 아님 텍스트에서 사용 가능
+CannotBeUsedNotPlayingText:플레이 중이 아님 텍스트에서 사용 불가
+ThisTagIsStringTag:이 태그는 문자열 태그입니다
+ThisTagIsNumberTag:이 태그는 숫자 태그입니다
+Compile:컴파일
+Remove:제거
+CompilationError:컴파일 에러
+ThisTag:이 태그는
+ArgMustHaveIndex:인수에 인덱스가 있어야 함
+ArgIndexOutOfRange:인수 인덱스가 범위 외입니다!
+CannotFind:다음을 찾을 수 없음\:
+EditFunction:함수 편집
+NewFunction:함수 추가
+ThisFunc:이 함수는
+ThisFuncIsStringFunc:이 함수는 문자열 함수입니다
+ThisFuncIsNumberFunc:이 함수는 숫자 함수입니다
+Number:숫자
+String:문자열
+NewArgument:인수 추가
+Index:인덱스
+Argument:인수
+random:랜덤
+randomrange:RandomRange(최소, 최대) 
+getstring:문자열 변수 받기
+setstring:문자열 변수 지정
+getnumber:숫자 변수 받기
+setnumber:숫자 변수 지정
+clearstrings:문자열 변수 삭제
+clearnumbers:숫자 변수 삭제
+ClearMessage:클리어 메시지
+ReloadCustomTags:커스텀 태그 다시 로드
+ReloadInits:초기화 코드 다시 실행
+AdofaiFont:얼불춤 폰트 변경
+AdofaiFont_Font:폰트
+AdofaiFont_LineSpacing:줄 간격
+AdofaiFont_FontScale:크기
+Apply:적용
+PlayTime:맵을 플레이 한 시간
+AllowCollectingLevel:플레이하고 있는 레벨의 수집 허용
+DebugMode:오버레이어 디버그 모드
+ReloadScripts:스크립트 다시 불러오기
+CleanMemory:메모리 청소
+MaxRecursion:최대 재귀호출 횟수 제한 (무한루프 방지, 기본값 -1)
+OnlineUsers:오버레이어가 설치된 온라인 유저 수
+OverlayerCustomTagStore:오버레이어 커스텀태그 스토어
+Back:돌아가기
+Upload:업로드

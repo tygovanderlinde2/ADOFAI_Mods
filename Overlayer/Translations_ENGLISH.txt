@@ -223,6 +223,9 @@ ReloadScripts:Reload Scripts
 CleanMemory:Clean Memory
 MaxRecursion:Limit Recursive Calls (Prevent Infinite Loop, Default -1)
 OnlineUsers:Online Users With Overlayer
-OverlayerCustomTagStore:Overlayer Custom Tag Store
+OverlayerCustomTagStore:Overlayer Script Store
 Back:Back
 Upload:Upload
+Outline:Outline
+Width:Width
+OutlineColor:Outline Color

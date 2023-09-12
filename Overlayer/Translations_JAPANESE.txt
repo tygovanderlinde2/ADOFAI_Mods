@@ -226,3 +226,6 @@ OnlineUsers:Not Translated..
 OverlayerCustomTagStore:Not Translated..
 Back:Not Translated..
 Upload:Not Translated..
+Outline:Not Translated..
+Width:Not Translated..
+OutlineColor:Not Translated..

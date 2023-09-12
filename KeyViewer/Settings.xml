@@ -8556,7 +8556,7 @@
           <Code>Q</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>1742</Count>
+          <Count>1798</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>Q</KeyTitle>
@@ -8786,7 +8786,7 @@
           <Code>W</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>2115</Count>
+          <Count>2198</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>W</KeyTitle>
@@ -9016,7 +9016,7 @@
           <Code>E</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>3886</Count>
+          <Count>4042</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>E</KeyTitle>
@@ -9246,7 +9246,7 @@
           <Code>R</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>7608</Count>
+          <Count>7898</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>R</KeyTitle>
@@ -9476,7 +9476,7 @@
           <Code>P</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>9176</Count>
+          <Count>9502</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>P</KeyTitle>
@@ -9706,7 +9706,7 @@
           <Code>LeftBracket</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>6052</Count>
+          <Count>6297</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>[</KeyTitle>
@@ -9936,7 +9936,7 @@
           <Code>RightBracket</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>2935</Count>
+          <Count>3059</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>]</KeyTitle>
@@ -10166,7 +10166,7 @@
           <Code>Backslash</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>1683</Count>
+          <Count>1740</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>\</KeyTitle>
@@ -10396,7 +10396,7 @@
           <Code>F13</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>723</Count>
+          <Count>745</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>F13</KeyTitle>
@@ -10626,7 +10626,7 @@
           <Code>V</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>202</Count>
+          <Count>212</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>V</KeyTitle>
@@ -10856,7 +10856,7 @@
           <Code>F14</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>397</Count>
+          <Count>410</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>F14</KeyTitle>
@@ -11086,7 +11086,7 @@
           <Code>Period</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>236</Count>
+          <Count>246</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>.</KeyTitle>
@@ -16410,7 +16410,7 @@
           <Code>Tab</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>23527</Count>
+          <Count>32601</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>⇥</KeyTitle>
@@ -16640,7 +16640,7 @@
           <Code>Alpha1</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>39945</Count>
+          <Count>56564</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>1</KeyTitle>
@@ -16870,7 +16870,7 @@
           <Code>Alpha2</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>98518</Count>
+          <Count>138502</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>2</KeyTitle>
@@ -17100,7 +17100,7 @@
           <Code>E</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>276622</Count>
+          <Count>370180</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>E</KeyTitle>
@@ -17330,7 +17330,7 @@
           <Code>P</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>382549</Count>
+          <Count>507496</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>P</KeyTitle>
@@ -17560,7 +17560,7 @@
           <Code>Equals</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>204706</Count>
+          <Count>277095</Count>
           <Gradient>false</Gradient>
           <Editing>true</Editing>
           <KeyTitle>=</KeyTitle>
@@ -17790,7 +17790,7 @@
           <Code>Backspace</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>56675</Count>
+          <Count>79747</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>Backspace</KeyTitle>
@@ -18020,7 +18020,7 @@
           <Code>Backslash</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>28205</Count>
+          <Count>39648</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>\</KeyTitle>
@@ -18250,7 +18250,7 @@
           <Code>LeftShift</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>2057</Count>
+          <Count>2789</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>L⇧</KeyTitle>
@@ -18480,7 +18480,7 @@
           <Code>CapsLock</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>2323</Count>
+          <Count>3126</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>⇪</KeyTitle>
@@ -18710,7 +18710,7 @@
           <Code>C</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>7224</Count>
+          <Count>9156</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>C</KeyTitle>
@@ -18940,7 +18940,7 @@
           <Code>F13</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>42478</Count>
+          <Count>54379</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>F13</KeyTitle>
@@ -19170,7 +19170,7 @@
           <Code>F14</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>20140</Count>
+          <Count>29709</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>F14</KeyTitle>
@@ -19400,7 +19400,7 @@
           <Code>Period</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>9635</Count>
+          <Count>11821</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>.</KeyTitle>
@@ -19630,7 +19630,7 @@
           <Code>Return</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>2959</Count>
+          <Count>3891</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>↵</KeyTitle>
@@ -19860,7 +19860,7 @@
           <Code>Insert</Code>
           <SpareCode>None</SpareCode>
           <SpecialType>None</SpecialType>
-          <Count>2697</Count>
+          <Count>3441</Count>
           <Gradient>false</Gradient>
           <Editing>false</Editing>
           <KeyTitle>Ins</KeyTitle>

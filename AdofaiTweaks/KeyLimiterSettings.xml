@@ -2,24 +2,7 @@
 <KeyLimiterSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <IsEnabled>false</IsEnabled>
   <IsExpanded>true</IsExpanded>
-  <ActiveKeys>
-    <KeyCode>Tab</KeyCode>
-    <KeyCode>Alpha1</KeyCode>
-    <KeyCode>Alpha2</KeyCode>
-    <KeyCode>E</KeyCode>
-    <KeyCode>P</KeyCode>
-    <KeyCode>Equals</KeyCode>
-    <KeyCode>Backspace</KeyCode>
-    <KeyCode>Backslash</KeyCode>
-    <KeyCode>LeftShift</KeyCode>
-    <KeyCode>CapsLock</KeyCode>
-    <KeyCode>F13</KeyCode>
-    <KeyCode>C</KeyCode>
-    <KeyCode>F14</KeyCode>
-    <KeyCode>Period</KeyCode>
-    <KeyCode>Insert</KeyCode>
-    <KeyCode>Return</KeyCode>
-  </ActiveKeys>
+  <ActiveKeys />
   <ActiveAsyncKeys />
   <ShowKeyViewer>false</ShowKeyViewer>
   <ViewerOnlyGameplay>false</ViewerOnlyGameplay>

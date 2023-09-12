@@ -223,6 +223,9 @@ ReloadScripts:스크립트 다시 불러오기
 CleanMemory:메모리 청소
 MaxRecursion:최대 재귀호출 횟수 제한 (무한루프 방지, 기본값 -1)
 OnlineUsers:오버레이어가 설치된 온라인 유저 수
-OverlayerCustomTagStore:오버레이어 커스텀태그 스토어
+OverlayerCustomTagStore:오버레이어 스크립트 스토어
 Back:돌아가기
 Upload:업로드
+Outline:윤곽선
+Width:두께
+OutlineColor:윤곽선 색

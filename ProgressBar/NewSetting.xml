@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <R>105</R>
+  <G>56</G>
+  <B>208</B>
+  <A>255</A>
+  <outlineR>0</outlineR>
+  <outlineG>0</outlineG>
+  <outlineB>0</outlineB>
+  <outlineA>255</outlineA>
+  <outlineSize>3</outlineSize>
+  <remainR>255</remainR>
+  <remainG>255</remainG>
+  <remainB>255</remainB>
+  <remainA>160</remainA>
+  <x>0.5</x>
+  <y>1</y>
+  <size>0.250750035</size>
+  <height>0.0281494856</height>
+  <songLength>true</songLength>
+  <usingOutline>false</usingOutline>
+  <showRemainBar>true</showRemainBar>
+</Setting>

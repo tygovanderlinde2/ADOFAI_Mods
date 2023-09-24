@@ -1,0 +1,8 @@
+{
+  "Id": "ProgressBar",
+  "DisplayName": "ProgressBar",
+  "Author": "Flower",
+  "Version": "1.1.2",
+  "AssemblyName": "ProgressBar.dll",
+  "EntryMethod": "ProgressBar.Main.Setup"
+}

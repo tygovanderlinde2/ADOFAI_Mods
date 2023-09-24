@@ -404,33 +404,27 @@
   {
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
-    "Active": false,
+    "Active": true,
     "IsExpanded": false,
     "Gradient": false,
     "DisableUpdate": false,
     "Font": "Default",
-    "Name": "ProgressBar",
-    "PlayingText": "{CTprogressbar}",
+    "Name": "songTime",
+    "PlayingText": "{SongTime}",
     "NotPlayingText": "",
     "Position": {
       "x": 0.5,
-      "y": 1.015,
+      "y": 0.9925,
       "normalized": {
-        "x": 0.441902876,
-        "y": 0.897062838,
-        "normalized": {
-          "x": 0.4419029,
-          "y": 0.8970629,
-          "magnitude": 1.0,
-          "sqrMagnitude": 1.0
-        },
-        "magnitude": 0.99999994,
-        "sqrMagnitude": 0.9999999
+        "x": 0.449911028,
+        "y": 0.8930734,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
       },
-      "magnitude": 1.13147032,
-      "sqrMagnitude": 1.28022492
+      "magnitude": 1.11133087,
+      "sqrMagnitude": 1.23505628
     },
-    "FontSize": 40.0,
+    "FontSize": 25.0,
     "Alignment": 257,
     "TextColor": {
       "topLeft": {
@@ -463,25 +457,25 @@
         "r": 0.0,
         "g": 0.0,
         "b": 0.0,
-        "a": 0.0
+        "a": 0.4
       },
       "topRight": {
         "r": 0.0,
         "g": 0.0,
         "b": 0.0,
-        "a": 0.0
+        "a": 0.4
       },
       "bottomLeft": {
         "r": 0.0,
         "g": 0.0,
         "b": 0.0,
-        "a": 0.0
+        "a": 0.4
       },
       "bottomRight": {
         "r": 0.0,
         "g": 0.0,
         "b": 0.0,
-        "a": 0.0
+        "a": 0.4
       }
     }
   },
@@ -494,7 +488,7 @@
     "DisableUpdate": false,
     "Font": "Default",
     "Name": "top-left",
-    "PlayingText": "Progress: {StartProgress(2)}% - {Progress(2)}%\nX-Acc: {CXAccuracy}\nDate: {Day}/{Month}\nTime: {ConvertedTime}\nSong: {SongTime}\nTile: {CurTile} / {TotalTile}\nCheckPoints: {CurCheckPoint} / {TotalCheckPoint}\nDifficulty: {PredictedDifficulty}",
+    "PlayingText": "Progress: {StartProgress(2)}% - {Progress(2)}%\nX-Acc: {CXAccuracy}\nDate: {Day}/{Month}\nTime: {ConvertedTime}\nTile: {CurTile} / {TotalTile}\nCheckPoints: {CurCheckPoint} / {TotalCheckPoint}\nCombo: {Combo}",
     "NotPlayingText": "",
     "Position": {
       "x": 0.00565,

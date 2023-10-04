@@ -9,6 +9,7 @@
   </AdofaiFont>
   <Lang>English</Lang>
   <DisableScript>false</DisableScript>
+  <PerfStatUpdateRate>100</PerfStatUpdateRate>
   <FPSUpdateRate>100</FPSUpdateRate>
   <FrameTimeUpdateRate>100</FrameTimeUpdateRate>
 </Settings>

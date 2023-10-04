@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlanetOpacitySettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <IsEnabled>false</IsEnabled>
-  <IsExpanded>true</IsExpanded>
+  <IsEnabled>true</IsEnabled>
+  <IsExpanded>false</IsExpanded>
   <SettingsOpacity1>-12</SettingsOpacity1>
   <SettingsOpacity2>-12</SettingsOpacity2>
   <PlanetOpacity1>
-    <Body>50</Body>
+    <Body>75</Body>
     <Tail>50</Tail>
     <Ring>50</Ring>
   </PlanetOpacity1>
   <PlanetOpacity2>
-    <Body>50</Body>
+    <Body>85</Body>
     <Tail>50</Tail>
     <Ring>50</Ring>
   </PlanetOpacity2>

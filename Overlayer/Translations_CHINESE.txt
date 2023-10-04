@@ -226,6 +226,6 @@ OnlineUsers:在线玩家
 OverlayerCustomTagStore:Overlayer自定义标签商店
 Back:返回
 Upload:上传自定义标签
-Outline:Not Translated..
-Width:Not Translated..
-OutlineColor:Not Translated..
+Outline:轮廓
+Width:宽度
+OutlineColor:轮廓颜色

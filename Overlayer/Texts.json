@@ -1,5 +1,80 @@
 [
   {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": true,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "Default",
+    "Name": "actualTime",
+    "PlayingText": "{aTime}",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.5,
+      "y": 0.98,
+      "normalized": {
+        "x": 0.454470336,
+        "y": 0.890761852,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.10018182,
+      "sqrMagnitude": 1.2104
+    },
+    "FontSize": 25.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
+  },
+  {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
     "Active": true,
@@ -50,34 +125,23 @@
         "a": 1.0
       }
     },
-    "ShadowColor": {
-      "topLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "topRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      }
-    }
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
   },
   {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
     "Active": false,
@@ -134,34 +198,23 @@
         "a": 1.0
       }
     },
-    "ShadowColor": {
-      "topLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "topRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      }
-    }
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
   },
   {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
     "Active": true,
@@ -212,34 +265,23 @@
         "a": 1.0
       }
     },
-    "ShadowColor": {
-      "topLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "topRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      }
-    }
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
   },
   {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
     "Active": true,
@@ -290,34 +332,23 @@
         "a": 1.0
       }
     },
-    "ShadowColor": {
-      "topLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "topRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      }
-    }
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
   },
   {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
     "Active": true,
@@ -374,38 +405,27 @@
         "a": 1.0
       }
     },
-    "ShadowColor": {
-      "topLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "topRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      }
-    }
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
   },
   {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
     "Active": true,
-    "IsExpanded": false,
+    "IsExpanded": true,
     "Gradient": false,
     "DisableUpdate": false,
     "Font": "Default",
@@ -452,38 +472,27 @@
         "a": 1.0
       }
     },
-    "ShadowColor": {
-      "topLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "topRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      }
-    }
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
   },
   {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
     "Active": true,
-    "IsExpanded": true,
+    "IsExpanded": false,
     "Gradient": false,
     "DisableUpdate": false,
     "Font": "Default",
@@ -530,31 +539,12 @@
         "a": 1.0
       }
     },
-    "ShadowColor": {
-      "topLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "topRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomLeft": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      },
-      "bottomRight": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.4
-      }
-    }
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
   }
 ]

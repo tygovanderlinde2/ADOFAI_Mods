@@ -5,7 +5,7 @@
   <PlayingProfile>
     <HideEverything>false</HideEverything>
     <HideJudgment>false</HideJudgment>
-    <HideMissIndicators>false</HideMissIndicators>
+    <HideMissIndicators>true</HideMissIndicators>
     <HideTitle>false</HideTitle>
     <HideOtto>false</HideOtto>
     <HideTimingTarget>false</HideTimingTarget>

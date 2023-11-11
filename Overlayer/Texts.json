@@ -425,7 +425,7 @@
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
     "Active": true,
-    "IsExpanded": true,
+    "IsExpanded": false,
     "Gradient": false,
     "DisableUpdate": false,
     "Font": "Default",
@@ -445,6 +445,73 @@
       "sqrMagnitude": 1.23505628
     },
     "FontSize": 25.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
+  },
+  {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.5,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": false,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "Default",
+    "Name": "test",
+    "PlayingText": "",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.5,
+      "y": 0.9,
+      "normalized": {
+        "x": 0.48564297,
+        "y": 0.8741573,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 1.029563,
+      "sqrMagnitude": 1.06
+    },
+    "FontSize": 44.0,
     "Alignment": 257,
     "TextColor": {
       "topLeft": {

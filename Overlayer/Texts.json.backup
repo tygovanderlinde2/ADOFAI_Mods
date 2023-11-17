@@ -14,23 +14,29 @@
     "IsExpanded": false,
     "Gradient": false,
     "DisableUpdate": false,
-    "Font": "Default",
+    "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "actualTime",
     "PlayingText": "{aTime}",
     "NotPlayingText": "",
     "Position": {
       "x": 0.5,
-      "y": 0.98,
+      "y": 0.972,
       "normalized": {
-        "x": 0.454470336,
-        "y": 0.890761852,
-        "magnitude": 1.0,
-        "sqrMagnitude": 0.99999994
+        "x": 0.4574307,
+        "y": 0.8892452,
+        "normalized": {
+          "x": 0.45743072,
+          "y": 0.8892453,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
       },
-      "magnitude": 1.10018182,
-      "sqrMagnitude": 1.2104
+      "magnitude": 1.0930618,
+      "sqrMagnitude": 1.194784
     },
-    "FontSize": 25.0,
+    "FontSize": 15.0,
     "Alignment": 257,
     "TextColor": {
       "topLeft": {
@@ -81,23 +87,29 @@
     "IsExpanded": false,
     "Gradient": false,
     "DisableUpdate": false,
-    "Font": "Default",
+    "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "attemps",
     "PlayingText": "{Attempts}",
     "NotPlayingText": "",
     "Position": {
-      "x": 0.58,
-      "y": 0.042,
+      "x": 0.57,
+      "y": 0.04765,
       "normalized": {
-        "x": 0.997388363,
-        "y": 0.07222468,
-        "magnitude": 1.0,
-        "sqrMagnitude": 0.99999994
+        "x": 0.996524,
+        "y": 0.08330591,
+        "normalized": {
+          "x": 0.996524036,
+          "y": 0.08330592,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
       },
-      "magnitude": 0.5815187,
-      "sqrMagnitude": 0.338163972
+      "magnitude": 0.5719882,
+      "sqrMagnitude": 0.327170521
     },
-    "FontSize": 30.0,
+    "FontSize": 15.0,
     "Alignment": 257,
     "TextColor": {
       "topLeft": {
@@ -221,23 +233,29 @@
     "IsExpanded": false,
     "Gradient": false,
     "DisableUpdate": false,
-    "Font": "Default",
+    "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "CPs",
     "PlayingText": "{CheckPoint}",
     "NotPlayingText": "",
     "Position": {
-      "x": 0.43,
-      "y": 0.042,
+      "x": 0.432,
+      "y": 0.04765,
       "normalized": {
-        "x": 0.995263755,
-        "y": 0.0972118,
-        "magnitude": 1.0,
-        "sqrMagnitude": 1.00000012
+        "x": 0.993971765,
+        "y": 0.109636,
+        "normalized": {
+          "x": 0.9939718,
+          "y": 0.109636009,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
       },
-      "magnitude": 0.4320463,
-      "sqrMagnitude": 0.186664
+      "magnitude": 0.43462,
+      "sqrMagnitude": 0.188894525
     },
-    "FontSize": 30.0,
+    "FontSize": 15.0,
     "Alignment": 257,
     "TextColor": {
       "topLeft": {
@@ -288,7 +306,7 @@
     "IsExpanded": false,
     "Gradient": false,
     "DisableUpdate": false,
-    "Font": "Default",
+    "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "hits",
     "PlayingText": "<color=#{FOHex}>{Overloads}</color> <color=#{TEHex}>{CurTE}</color> <color=#{VEHex}>{CurVE}</color> <color=#{EPHex}>{CurEP}</color> <color=#{PHex}>{CurP}</color> <color=#{LPHex}>{CurLP}</color> <color=#{VLHex}>{CurVL}</color> <color=#{TLHex}>{CurTL}</color> <color=#{FMHex}>{MissCount}</color>",
     "NotPlayingText": "",
@@ -303,6 +321,213 @@
       },
       "magnitude": 0.5055937,
       "sqrMagnitude": 0.255625
+    },
+    "FontSize": 22.0,
+    "Alignment": 514,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
+  },
+  {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": true,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
+    "Name": "msTiming",
+    "PlayingText": "{Timing(10)}",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.5,
+      "y": 0.015,
+      "normalized": {
+        "x": 0.9995503,
+        "y": 0.0299865082,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 0.500224948,
+      "sqrMagnitude": 0.250225
+    },
+    "FontSize": 15.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
+  },
+  {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": true,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
+    "Name": "songTime",
+    "PlayingText": "{SongTime}",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.5,
+      "y": 0.985,
+      "normalized": {
+        "x": 0.452637,
+        "y": 0.891694844,
+        "normalized": {
+          "x": 0.452637017,
+          "y": 0.8916949,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.104638,
+      "sqrMagnitude": 1.220225
+    },
+    "FontSize": 15.0,
+    "Alignment": 257,
+    "TextColor": {
+      "topLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "topRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomLeft": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bottomRight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "OutlineColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "OutlineWidth": 0.0
+  },
+  {
+    "ShadowColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.5,
+      "grayscale": 0.0,
+      "maxColorComponent": 0.0
+    },
+    "LineSpacing": -25.0,
+    "LineSpacingAdjustment": 25.0,
+    "Active": false,
+    "IsExpanded": false,
+    "Gradient": false,
+    "DisableUpdate": false,
+    "Font": "Default",
+    "Name": "test",
+    "PlayingText": "",
+    "NotPlayingText": "",
+    "Position": {
+      "x": 0.5,
+      "y": 0.9,
+      "normalized": {
+        "x": 0.48564297,
+        "y": 0.8741573,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 1.029563,
+      "sqrMagnitude": 1.06
     },
     "FontSize": 44.0,
     "Alignment": 257,
@@ -355,96 +580,23 @@
     "IsExpanded": false,
     "Gradient": false,
     "DisableUpdate": false,
-    "Font": "Default",
-    "Name": "msTiming",
-    "PlayingText": "{Timing(10)}",
+    "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
+    "Name": "top-left",
+    "PlayingText": "Progress: {StartProgress(2)}% - {Progress(2)}%\nX-Acc: {CXAccuracy}\nDate: {Day} / {Month}\nTime: {ConvertedTime}\nTile: {CurTile} / {TotalTile}\nCheckPoints: {CurCheckPoint} / {TotalCheckPoint}\nCombo: {Combo}",
     "NotPlayingText": "",
     "Position": {
-      "x": 0.5,
-      "y": 0.01,
+      "x": 0.005,
+      "y": 0.995,
       "normalized": {
-        "x": 0.9998,
-        "y": 0.019996,
-        "normalized": {
-          "x": 0.9998001,
-          "y": 0.0199960023,
-          "magnitude": 1.0,
-          "sqrMagnitude": 1.0
-        },
-        "magnitude": 0.99999994,
-        "sqrMagnitude": 0.99999994
-      },
-      "magnitude": 0.5001,
-      "sqrMagnitude": 0.2501
-    },
-    "FontSize": 30.0,
-    "Alignment": 257,
-    "TextColor": {
-      "topLeft": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-      },
-      "topRight": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-      },
-      "bottomLeft": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-      },
-      "bottomRight": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-      }
-    },
-    "OutlineColor": {
-      "r": 0.0,
-      "g": 0.0,
-      "b": 0.0,
-      "a": 0.0
-    },
-    "OutlineWidth": 0.0
-  },
-  {
-    "ShadowColor": {
-      "r": 0.0,
-      "g": 0.0,
-      "b": 0.0,
-      "a": 0.0,
-      "grayscale": 0.0,
-      "maxColorComponent": 0.0
-    },
-    "LineSpacing": -25.0,
-    "LineSpacingAdjustment": 25.0,
-    "Active": true,
-    "IsExpanded": false,
-    "Gradient": false,
-    "DisableUpdate": false,
-    "Font": "Default",
-    "Name": "songTime",
-    "PlayingText": "{SongTime}",
-    "NotPlayingText": "",
-    "Position": {
-      "x": 0.5,
-      "y": 0.9925,
-      "normalized": {
-        "x": 0.449911028,
-        "y": 0.8930734,
+        "x": 0.005025062,
+        "y": 0.999987364,
         "magnitude": 1.0,
         "sqrMagnitude": 1.0
       },
-      "magnitude": 1.11133087,
-      "sqrMagnitude": 1.23505628
+      "magnitude": 0.9950126,
+      "sqrMagnitude": 0.99005
     },
-    "FontSize": 25.0,
+    "FontSize": 20.0,
     "Alignment": 257,
     "TextColor": {
       "topLeft": {
@@ -492,88 +644,33 @@
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
     "Active": true,
-    "IsExpanded": true,
-    "Gradient": false,
-    "DisableUpdate": false,
-    "Font": "Default",
-    "Name": "test",
-    "PlayingText": "{dynamicCombo}",
-    "NotPlayingText": "",
-    "Position": {
-      "x": 0.0,
-      "y": 0.0,
-      "magnitude": 0.0,
-      "sqrMagnitude": 0.0
-    },
-    "FontSize": 44.0,
-    "Alignment": 257,
-    "TextColor": {
-      "topLeft": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-      },
-      "topRight": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-      },
-      "bottomLeft": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-      },
-      "bottomRight": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-      }
-    },
-    "OutlineColor": {
-      "r": 0.0,
-      "g": 0.0,
-      "b": 0.0,
-      "a": 0.0
-    },
-    "OutlineWidth": 0.0
-  },
-  {
-    "ShadowColor": {
-      "r": 0.0,
-      "g": 0.0,
-      "b": 0.0,
-      "a": 0.0,
-      "grayscale": 0.0,
-      "maxColorComponent": 0.0
-    },
-    "LineSpacing": -25.0,
-    "LineSpacingAdjustment": 25.0,
-    "Active": true,
     "IsExpanded": false,
     "Gradient": false,
     "DisableUpdate": false,
-    "Font": "Default",
-    "Name": "top-left",
-    "PlayingText": "Progress: {StartProgress(2)}% - {Progress(2)}%\nX-Acc: {CXAccuracy}\nDate: {Day}/{Month}\nTime: {ConvertedTime}\nTile: {CurTile} / {TotalTile}\nCheckPoints: {CurCheckPoint} / {TotalCheckPoint}\nCombo: {Combo}",
+    "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
+    "Name": "top-right",
+    "PlayingText": "CBPM - {TileBpm(4)}\nTBPM - {CurBpm(4)}\nKPS - {RecKPS(2)}",
     "NotPlayingText": "",
     "Position": {
-      "x": 0.00565,
-      "y": 1.0,
+      "x": 0.99,
+      "y": 0.978,
       "normalized": {
-        "x": 0.00564991,
-        "y": 0.999984,
-        "magnitude": 1.0,
-        "sqrMagnitude": 1.0
+        "x": 0.711405158,
+        "y": 0.702782035,
+        "normalized": {
+          "x": 0.7114052,
+          "y": 0.7027821,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
       },
-      "magnitude": 1.000016,
-      "sqrMagnitude": 1.000032
+      "magnitude": 1.391612,
+      "sqrMagnitude": 1.936584
     },
-    "FontSize": 25.0,
-    "Alignment": 257,
+    "FontSize": 20.0,
+    "Alignment": 260,
     "TextColor": {
       "topLeft": {
         "r": 1.0,

@@ -491,6 +491,30 @@ function TimingAvg(digits) {}
  * @returns {number}
  */
 function PlayTime(opt) {}
+/**
+ * @returns {Object}
+ */
+function test() {}
+/**
+ * @returns {Object}
+ */
+function aTime() {}
+/**
+ * @returns {Object}
+ */
+function CXAccuracy() {}
+/**
+ * @returns {Object}
+ */
+function ConvertedTime() {}
+/**
+ * @returns {Object}
+ */
+function CTprogressbar() {}
+/**
+ * @returns {Object}
+ */
+function SongTime() {}
 class Ease {
   constructor() {
     /**@type {number}*/

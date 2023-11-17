@@ -92,25 +92,19 @@
     "PlayingText": "{Attempts}",
     "NotPlayingText": "",
     "Position": {
-      "x": 0.57,
+      "x": 0.578475,
       "y": 0.04765,
       "normalized": {
-        "x": 0.996524,
-        "y": 0.08330591,
-        "normalized": {
-          "x": 0.996524036,
-          "y": 0.08330592,
-          "magnitude": 1.0,
-          "sqrMagnitude": 1.0
-        },
-        "magnitude": 0.99999994,
-        "sqrMagnitude": 0.9999999
+        "x": 0.9966246,
+        "y": 0.08209371,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
       },
-      "magnitude": 0.5719882,
-      "sqrMagnitude": 0.327170521
+      "magnitude": 0.5804342,
+      "sqrMagnitude": 0.33690384
     },
     "FontSize": 15.0,
-    "Alignment": 257,
+    "Alignment": 514,
     "TextColor": {
       "topLeft": {
         "r": 1.0,
@@ -509,25 +503,25 @@
     },
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
-    "Active": false,
-    "IsExpanded": false,
+    "Active": true,
+    "IsExpanded": true,
     "Gradient": false,
     "DisableUpdate": false,
     "Font": "Default",
     "Name": "test",
-    "PlayingText": "",
+    "PlayingText": "{test}",
     "NotPlayingText": "",
     "Position": {
       "x": 0.5,
-      "y": 0.9,
+      "y": 0.875,
       "normalized": {
-        "x": 0.48564297,
-        "y": 0.8741573,
+        "x": 0.49613893,
+        "y": 0.868243158,
         "magnitude": 1.0,
-        "sqrMagnitude": 1.00000012
+        "sqrMagnitude": 1.0
       },
-      "magnitude": 1.029563,
-      "sqrMagnitude": 1.06
+      "magnitude": 1.00778222,
+      "sqrMagnitude": 1.015625
     },
     "FontSize": 44.0,
     "Alignment": 257,
@@ -649,7 +643,7 @@
     "DisableUpdate": false,
     "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "top-right",
-    "PlayingText": "CBPM - {TileBpm(4)}\nTBPM - {CurBpm(4)}\nKPS - {RecKPS(2)}",
+    "PlayingText": "TBPM - {TileBpm(4)}\nCBPM - {CurBpm(4)}\nKPS - {RecKPS(2)}",
     "NotPlayingText": "",
     "Position": {
       "x": 0.99,

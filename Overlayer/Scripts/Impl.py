@@ -113,12 +113,6 @@ def Fps(arg:int) -> float: return Fps(arg)
 def Multipress() -> str: return Multipress()
 def TimingAvg(digits:float) -> float: return TimingAvg(digits)
 def PlayTime(opt:str) -> float: return PlayTime(opt)
-def test() -> str: return test()
-def aTime() -> str: return aTime()
-def CXAccuracy() -> str: return CXAccuracy()
-def ConvertedTime() -> str: return ConvertedTime()
-def CTprogressbar() -> str: return CTprogressbar()
-def SongTime() -> str: return SongTime()
 class Ease():
   def __init__(self):
     self.value__:int = None

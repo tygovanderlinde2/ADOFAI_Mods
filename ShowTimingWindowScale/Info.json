@@ -1,0 +1,8 @@
+{
+  "Id": "ShowTimingWindowScale",
+  "DisplayName": "ShowTimingWindowScale",
+  "Author": "Sharky",
+  "Version": "0.0.1",
+  "AssemblyName": "ShowTimingWindowScale.dll",
+  "EntryMethod": "ShowTimingWindowScale.Main.Setup"
+}

@@ -13,7 +13,6 @@
     "Active": true,
     "IsExpanded": false,
     "Gradient": false,
-    "DisableUpdate": false,
     "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "actualTime",
     "PlayingText": "{aTime}",
@@ -35,6 +34,13 @@
       },
       "magnitude": 1.0930618,
       "sqrMagnitude": 1.194784
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
     },
     "FontSize": 15.0,
     "Alignment": 257,
@@ -86,7 +92,6 @@
     "Active": true,
     "IsExpanded": false,
     "Gradient": false,
-    "DisableUpdate": false,
     "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "attemps",
     "PlayingText": "{Attempts}",
@@ -102,6 +107,13 @@
       },
       "magnitude": 0.5804342,
       "sqrMagnitude": 0.33690384
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
     },
     "FontSize": 15.0,
     "Alignment": 514,
@@ -153,7 +165,6 @@
     "Active": false,
     "IsExpanded": false,
     "Gradient": false,
-    "DisableUpdate": false,
     "Font": "Default",
     "Name": "best",
     "PlayingText": "{BestProgress}",
@@ -175,6 +186,13 @@
       },
       "magnitude": 0.5001,
       "sqrMagnitude": 0.2501
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
     },
     "FontSize": 30.0,
     "Alignment": 257,
@@ -226,7 +244,6 @@
     "Active": true,
     "IsExpanded": false,
     "Gradient": false,
-    "DisableUpdate": false,
     "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "CPs",
     "PlayingText": "{CheckPoint}",
@@ -248,6 +265,13 @@
       },
       "magnitude": 0.43462,
       "sqrMagnitude": 0.188894525
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
     },
     "FontSize": 15.0,
     "Alignment": 257,
@@ -299,10 +323,9 @@
     "Active": true,
     "IsExpanded": false,
     "Gradient": false,
-    "DisableUpdate": false,
     "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "hits",
-    "PlayingText": "<color=#{FOHex}>{Overloads}</color> <color=#{TEHex}>{CurTE}</color> <color=#{VEHex}>{CurVE}</color> <color=#{EPHex}>{CurEP}</color> <color=#{PHex}>{CurP}</color> <color=#{LPHex}>{CurLP}</color> <color=#{VLHex}>{CurVL}</color> <color=#{TLHex}>{CurTL}</color> <color=#{FMHex}>{MissCount}</color>",
+    "PlayingText": "<color=#{FOHex}>{Overloads}</color>  <color=#{TEHex}>{CurTE}</color>  <color=#{VEHex}>{CurVE}</color>  <color=#{EPHex}>{CurEP}</color>  <color=#{PHex}>{CurP}</color>  <color=#{LPHex}>{CurLP}</color>  <color=#{VLHex}>{CurVL}</color>  <color=#{TLHex}>{CurTL}</color>  <color=#{FMHex}>{MissCount}</color>",
     "NotPlayingText": "",
     "Position": {
       "x": 0.5,
@@ -315,6 +338,13 @@
       },
       "magnitude": 0.5055937,
       "sqrMagnitude": 0.255625
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
     },
     "FontSize": 22.0,
     "Alignment": 514,
@@ -366,7 +396,6 @@
     "Active": true,
     "IsExpanded": false,
     "Gradient": false,
-    "DisableUpdate": false,
     "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "msTiming",
     "PlayingText": "{Timing(10)}",
@@ -382,6 +411,13 @@
       },
       "magnitude": 0.500224948,
       "sqrMagnitude": 0.250225
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
     },
     "FontSize": 15.0,
     "Alignment": 257,
@@ -433,7 +469,6 @@
     "Active": true,
     "IsExpanded": false,
     "Gradient": false,
-    "DisableUpdate": false,
     "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "songTime",
     "PlayingText": "{SongTime}",
@@ -455,6 +490,13 @@
       },
       "magnitude": 1.104638,
       "sqrMagnitude": 1.220225
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
     },
     "FontSize": 15.0,
     "Alignment": 257,
@@ -503,10 +545,9 @@
     },
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
-    "Active": true,
-    "IsExpanded": true,
+    "Active": false,
+    "IsExpanded": false,
     "Gradient": false,
-    "DisableUpdate": false,
     "Font": "Default",
     "Name": "test",
     "PlayingText": "{test}",
@@ -522,6 +563,13 @@
       },
       "magnitude": 1.00778222,
       "sqrMagnitude": 1.015625
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
     },
     "FontSize": 44.0,
     "Alignment": 257,
@@ -573,7 +621,6 @@
     "Active": true,
     "IsExpanded": false,
     "Gradient": false,
-    "DisableUpdate": false,
     "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "top-left",
     "PlayingText": "Progress: {StartProgress(2)}% - {Progress(2)}%\nX-Acc: {CXAccuracy}\nDate: {Day} / {Month}\nTime: {ConvertedTime}\nTile: {CurTile} / {TotalTile}\nCheckPoints: {CurCheckPoint} / {TotalCheckPoint}\nCombo: {Combo}",
@@ -589,6 +636,13 @@
       },
       "magnitude": 0.9950126,
       "sqrMagnitude": 0.99005
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
     },
     "FontSize": 20.0,
     "Alignment": 257,
@@ -640,10 +694,9 @@
     "Active": true,
     "IsExpanded": false,
     "Gradient": false,
-    "DisableUpdate": false,
     "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "top-right",
-    "PlayingText": "TBPM - {TileBpm(4)}\nCBPM - {CurBpm(4)}\nKPS - {RecKPS(2)}",
+    "PlayingText": "TBPM - {TileBpm(2)}\nCBPM - {CurBpm(2)}\nCUR - {RecKPS(2)}",
     "NotPlayingText": "",
     "Position": {
       "x": 0.99,
@@ -662,6 +715,13 @@
       },
       "magnitude": 1.391612,
       "sqrMagnitude": 1.936584
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
     },
     "FontSize": 20.0,
     "Alignment": 260,

@@ -71,11 +71,6 @@ function MissCount() {}
  */
 function Overloads() {}
 /**
- * @param {string} expr
- * @returns {Object}
- */
-function Expression(expr) {}
-/**
  * @returns {string}
  */
 function TEHex() {}
@@ -279,45 +274,6 @@ function NVL() {}
  */
 function NTL() {}
 /**
- * @returns {number}
- */
-function ProcessorCount() {}
-/**
- * @param {number} digits
- * @returns {number}
- */
-function MemoryGBytes(digits) {}
-/**
- * @param {number} digits
- * @returns {number}
- */
-function CpuUsage(digits) {}
-/**
- * @param {number} digits
- * @returns {number}
- */
-function TotalCpuUsage(digits) {}
-/**
- * @param {number} digits
- * @returns {number}
- */
-function MemoryUsage(digits) {}
-/**
- * @param {number} digits
- * @returns {number}
- */
-function TotalMemoryUsage(digits) {}
-/**
- * @param {number} digits
- * @returns {number}
- */
-function MemoryUsageGBytes(digits) {}
-/**
- * @param {number} digits
- * @returns {number}
- */
-function TotalMemoryUsageGBytes(digits) {}
-/**
  * @param {string} opt
  * @returns {number}
  */
@@ -491,6 +447,11 @@ function TimingAvg(digits) {}
  * @returns {number}
  */
 function PlayTime(opt) {}
+/**
+ * @param {string} expr
+ * @returns {Object}
+ */
+function Expression(expr) {}
 class Ease {
   constructor() {
     /**@type {number}*/
@@ -915,8 +876,6 @@ class OverlayerText {
     this.IsExpanded = null;
     /**@type {boolean}*/
     this.Gradient = null;
-    /**@type {boolean}*/
-    this.DisableUpdate = null;
     /**@type {string}*/
     this.Font = null;
     /**@type {string}*/
@@ -927,28 +886,15 @@ class OverlayerText {
     this.NotPlayingText = null;
     /**@type {Vector2}*/
     this.Position = null;
+    /**@type {Vector3}*/
+    this.Rotation = null;
     /**@type {number}*/
     this.FontSize = null;
     /**@type {TextAlign}*/
     this.Alignment = null;
+    /**@type {OverlayerRawText}*/
+    this.This = null;
   }
-  /**
-   * @returns {void}
-   */
-  Apply() { Apply() }
-  /**
-   * @returns {Color}
-   */
-  GetTextColor() { return GetTextColor() }
-  /**
-   * @param {Color} color
-   * @returns {void}
-   */
-  SetTextColor(color) { SetTextColor(color) }
-  /**
-   * @returns {void}
-   */
-  Update() { Update() }
   /**@type {Color}*/
   get OutlineColor() {}
   /**@param {Color} value*/
@@ -1143,6 +1089,10 @@ class Texture {
   /**@param {number} value*/
   set filterMode(value) {}
   /**@type {number}*/
+  static get globalMipmapLimit() {}
+  /**@param {number} value*/
+  static set globalMipmapLimit(value) {}
+  /**@type {number}*/
   get graphicsFormat() {}
   /**@type {number}*/
   get height() {}
@@ -1152,6 +1102,8 @@ class Texture {
   get hideFlags() {}
   /**@param {number} value*/
   set hideFlags(value) {}
+  /**@type {boolean}*/
+  get isDataSRGB() {}
   /**@type {boolean}*/
   get isReadable() {}
   /**@type {number}*/
@@ -1566,6 +1518,8 @@ class Texture2D {
    */
   UpdateExternalTexture(nativeTex) { UpdateExternalTexture(nativeTex) }
   /**@type {number}*/
+  get activeMipmapLimit() {}
+  /**@type {number}*/
   get anisoLevel() {}
   /**@param {number} value*/
   set anisoLevel(value) {}
@@ -1602,6 +1556,8 @@ class Texture2D {
   /**@param {boolean} value*/
   set ignoreMipmapLimit(value) {}
   /**@type {boolean}*/
+  get isDataSRGB() {}
+  /**@type {boolean}*/
   get isReadable() {}
   /**@type {Texture2D}*/
   static get linearGrayTexture() {}
@@ -1619,6 +1575,8 @@ class Texture2D {
   set mipMapBias(value) {}
   /**@type {number}*/
   get mipmapCount() {}
+  /**@type {string}*/
+  get mipmapLimitGroup() {}
   /**@type {string}*/
   get name() {}
   /**@param {string} value*/
@@ -1675,6 +1633,11 @@ class UnityMaterial {
    * @param {UnityMaterial} mat
    * @returns {void}
    */
+  CopyMatchingPropertiesFromMaterial(mat) { CopyMatchingPropertiesFromMaterial(mat) }
+  /**
+   * @param {UnityMaterial} mat
+   * @returns {void}
+   */
   CopyPropertiesFromMaterial(mat) { CopyPropertiesFromMaterial(mat) }
   /**
    * @param {string} scriptContents
@@ -1713,6 +1676,11 @@ class UnityMaterial {
   FindPass(passName) { return FindPass(passName) }
   /**
    * @param {string} name
+   * @returns {GraphicsBufferHandle}
+   */
+  GetBuffer(name) { return GetBuffer(name) }
+  /**
+   * @param {string} name
    * @returns {UnityColor}
    */
   GetColor(name) { return GetColor(name) }
@@ -1743,6 +1711,11 @@ class UnityMaterial {
    * @returns {void}
    */
   GetColorArray(nameID, values) { GetColorArray(nameID, values) }
+  /**
+   * @param {string} name
+   * @returns {GraphicsBufferHandle}
+   */
+  GetConstantBuffer(name) { return GetConstantBuffer(name) }
   /**
    * @param {string} name
    * @returns {number}
@@ -1840,6 +1813,11 @@ class UnityMaterial {
    * @returns {string}
    */
   GetPassName(pass) { return GetPassName(pass) }
+  /**
+   * @param {number} type
+   * @returns {String[]}
+   */
+  GetPropertyNames(type) { return GetPropertyNames(type) }
   /**
    * @param {string} passName
    * @returns {boolean}
@@ -2645,6 +2623,11 @@ class UnityShader {
   GetPropertyDefaultFloatValue(propertyIndex) { return GetPropertyDefaultFloatValue(propertyIndex) }
   /**
    * @param {number} propertyIndex
+   * @returns {number}
+   */
+  GetPropertyDefaultIntValue(propertyIndex) { return GetPropertyDefaultIntValue(propertyIndex) }
+  /**
+   * @param {number} propertyIndex
    * @returns {Vector4}
    */
   GetPropertyDefaultVectorValue(propertyIndex) { return GetPropertyDefaultVectorValue(propertyIndex) }
@@ -2967,6 +2950,10 @@ class UnityShader {
   get isSupported() {}
   /**@type {LocalKeywordSpace}*/
   get keywordSpace() {}
+  /**@type {number}*/
+  static get maximumChunksOverride() {}
+  /**@param {number} value*/
+  static set maximumChunksOverride(value) {}
   /**@type {number}*/
   get maximumLOD() {}
   /**@param {number} value*/
@@ -3623,6 +3610,10 @@ class TextMeshPro {
    */
   SetNativeSize() { SetNativeSize() }
   /**
+   * @returns {void}
+   */
+  SetRaycastDirty() { SetRaycastDirty() }
+  /**
    * @param {string} sourceText
    * @param {boolean} syncTextInputBox
    * @returns {void}
@@ -3865,6 +3856,8 @@ class TextMeshPro {
   get defaultMaterial() {}
   /**@type {number}*/
   get depth() {}
+  /**@type {CancellationToken}*/
+  get destroyCancellationToken() {}
   /**@type {boolean}*/
   get enableAutoSizing() {}
   /**@param {boolean} value*/
@@ -4200,49 +4193,8 @@ class OverlayerRawText {
   constructor() {
     /**@type {OverlayerText}*/
     this.config = null;
-  }
-  /**
-   * @returns {void}
-   */
-  Apply() { Apply() }
-  /**
-   * @returns {void}
-   */
-  ApplyLight() { ApplyLight() }
-  /**
-   * @returns {void}
-   */
-  GUI() { GUI() }
-  /**
-   * @param {boolean} force
-   * @returns {void}
-   */
-  Update(force) { Update(force) }
-  /**@type {boolean}*/
-  static get IsPlaying() {}
-  /**@type {Replacer}*/
-  get NotPlayingText() {}
-  /**@param {Replacer} value*/
-  set NotPlayingText(value) {}
-  /**@type {Replacer}*/
-  get PlayingText() {}
-  /**@param {Replacer} value*/
-  set PlayingText(value) {}
-  /**@type {ShadowText}*/
-  get Text() {}
-  /**@param {ShadowText} value*/
-  set Text(value) {}
-}
-class ShadowText {
-  constructor() {
-    /**@type {Action}*/
-    this.Updater = null;
     /**@type {TextMeshPro}*/
-    this.Main = null;
-    /**@type {string}*/
-    this.CurrentFont = null;
-    /**@type {number}*/
-    this.Number = null;
+    this.Text = null;
   }
   /**@type {GameObject}*/
   static PCanvasObj;
@@ -4250,6 +4202,10 @@ class ShadowText {
   static PublicCanvas;
   /**@type {UnityShader}*/
   static sr_msdf;
+  /**
+   * @returns {void}
+   */
+  Apply() { Apply() }
   /**
    * @param {string} methodName
    * @param {Object} parameter
@@ -4438,10 +4394,14 @@ class ShadowText {
    */
   GetInstanceID() { return GetInstanceID() }
   /**
-   * @param {OverlayerText} config
    * @returns {void}
    */
-  Init(config) { Init(config) }
+  GUI() { GUI() }
+  /**
+   * @param {OverlayerText} cfg
+   * @returns {OverlayerRawText}
+   */
+  Init(cfg) { return Init(cfg) }
   /**
    * @param {string} methodName
    * @param {number} time
@@ -4465,7 +4425,7 @@ class ShadowText {
    */
   IsInvoking(methodName) { return IsInvoking(methodName) }
   /**
-   * @returns {ShadowText}
+   * @returns {OverlayerRawText}
    */
   static NewText() { return NewText() }
   /**
@@ -4580,26 +4540,20 @@ class ShadowText {
   get Active() {}
   /**@param {boolean} value*/
   set Active(value) {}
-  /**@type {TextAlign}*/
-  get Alignment() {}
-  /**@param {TextAlign} value*/
-  set Alignment(value) {}
   /**@type {Vector2}*/
   get Center() {}
   /**@param {Vector2} value*/
   set Center(value) {}
-  /**@type {UnityColor}*/
-  get Color() {}
-  /**@param {UnityColor} value*/
-  set Color(value) {}
+  /**@type {string}*/
+  get CurrentFont() {}
+  /**@param {string} value*/
+  set CurrentFont(value) {}
+  /**@type {CancellationToken}*/
+  get destroyCancellationToken() {}
   /**@type {boolean}*/
   get enabled() {}
   /**@param {boolean} value*/
   set enabled(value) {}
-  /**@type {number}*/
-  get FontSize() {}
-  /**@param {number} value*/
-  set FontSize(value) {}
   /**@type {GameObject}*/
   get gameObject() {}
   /**@type {number}*/
@@ -4612,22 +4566,32 @@ class ShadowText {
   set Initialized(value) {}
   /**@type {boolean}*/
   get isActiveAndEnabled() {}
+  /**@type {boolean}*/
+  static get IsPlaying() {}
   /**@type {string}*/
   get name() {}
   /**@param {string} value*/
   set name(value) {}
+  /**@type {Replacer}*/
+  get NotPlayingText() {}
+  /**@param {Replacer} value*/
+  set NotPlayingText(value) {}
+  /**@type {Replacer}*/
+  get PlayingText() {}
+  /**@param {Replacer} value*/
+  set PlayingText(value) {}
   /**@type {Vector2}*/
   get Position() {}
   /**@param {Vector2} value*/
   set Position(value) {}
+  /**@type {Vector3}*/
+  get Rotation() {}
+  /**@param {Vector3} value*/
+  set Rotation(value) {}
   /**@type {string}*/
   get tag() {}
   /**@param {string} value*/
   set tag(value) {}
-  /**@type {number}*/
-  static get TotalCount() {}
-  /**@param {number} value*/
-  static set TotalCount(value) {}
   /**@type {Transform}*/
   get transform() {}
   /**@type {boolean}*/
@@ -4650,6 +4614,19 @@ class Sprite {
    * @returns {Sprite}
    */
   static Create(texture, rect, pivot, pixelsPerUnit, extrude, meshType, border, generateFallbackPhysicsShape) { return Create(texture, rect, pivot, pixelsPerUnit, extrude, meshType, border, generateFallbackPhysicsShape) }
+  /**
+   * @param {Texture2D} texture
+   * @param {Rect} rect
+   * @param {Vector2} pivot
+   * @param {number} pixelsPerUnit
+   * @param {number} extrude
+   * @param {number} meshType
+   * @param {Vector4} border
+   * @param {boolean} generateFallbackPhysicsShape
+   * @param {SecondarySpriteTexture[]} secondaryTextures
+   * @returns {Sprite}
+   */
+  static Create(texture, rect, pivot, pixelsPerUnit, extrude, meshType, border, generateFallbackPhysicsShape, secondaryTextures) { return Create(texture, rect, pivot, pixelsPerUnit, extrude, meshType, border, generateFallbackPhysicsShape, secondaryTextures) }
   /**
    * @param {Texture2D} texture
    * @param {Rect} rect
@@ -4723,6 +4700,15 @@ class Sprite {
    * @returns {number}
    */
   GetPhysicsShapePointCount(shapeIdx) { return GetPhysicsShapePointCount(shapeIdx) }
+  /**
+   * @returns {number}
+   */
+  GetSecondaryTextureCount() { return GetSecondaryTextureCount() }
+  /**
+   * @param {SecondarySpriteTexture[]} secondaryTexture
+   * @returns {number}
+   */
+  GetSecondaryTextures(secondaryTexture) { return GetSecondaryTextures(secondaryTexture) }
   /**
    * @param {Vector2[]} vertices
    * @param {UInt16[]} triangles
@@ -4890,6 +4876,8 @@ class SystemLanguage {
   static ChineseSimplified;
   /**@type {SystemLanguage}*/
   static ChineseTraditional;
+  /**@type {SystemLanguage}*/
+  static Hindi;
   /**@type {SystemLanguage}*/
   static Unknown;
   /**@type {SystemLanguage}*/
@@ -5811,11 +5799,6 @@ function GetRawText(index) {}
  * @returns {number}
  */
 function GetTextCount() {}
-/**
- * @param {number} speed
- * @returns {Color}
- */
-function RainbowColor(speed) {}
 /**
  * @param {string} file Image File
  * @param {UserDefinedFunction} spriteCallback Loaded Sprite Argument Callback

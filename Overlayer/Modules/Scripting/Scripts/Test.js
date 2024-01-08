@@ -14,4 +14,4 @@ const main = () => {
   }
 }
 
-RegisterTag("test", main, true);
+// RegisterTag("test", main, true);

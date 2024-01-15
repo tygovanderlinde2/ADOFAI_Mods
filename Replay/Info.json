@@ -1,0 +1,12 @@
+{
+  "Id": "Replay",
+  "DisplayName": "Replay",
+  "Author": "Flower",
+  "LoadAfter": ["AdofaiTweaks"],
+  "Version": "1.3.2",
+  "ManagerVersion": "0.22.14.0",
+  "AssemblyName": "ReplayLoader.dll",
+  "EntryMethod": "ReplayLoader.Loader.Setup",
+  "HomePage": "https://github.com/NoBrain0917/ADOFAI-Replay",
+  "Repository": "https://raw.githubusercontent.com/NoBrain0917/ADOFAI-Replay/master/Repository.json"
+}

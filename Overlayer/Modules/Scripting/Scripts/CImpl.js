@@ -448,6 +448,192 @@ function TimingAvg(digits) {}
  */
 function PlayTime(opt) {}
 /**
+ * @returns {number}
+ */
+function CurMinuteWithPitch() {}
+/**
+ * @returns {number}
+ */
+function CurSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function CurMilliSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function TotalMinuteWithPitch() {}
+/**
+ * @returns {number}
+ */
+function TotalSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function TotalMilliSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function LeftMinute() {}
+/**
+ * @returns {number}
+ */
+function LeftSecond() {}
+/**
+ * @returns {number}
+ */
+function LeftMilliSecond() {}
+/**
+ * @returns {number}
+ */
+function LeftMinuteWithPitch() {}
+/**
+ * @returns {number}
+ */
+function LeftSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function LeftMilliSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function FinishYear() {}
+/**
+ * @returns {number}
+ */
+function FinishMonth() {}
+/**
+ * @returns {number}
+ */
+function FinishDay() {}
+/**
+ * @returns {number}
+ */
+function FinishHour() {}
+/**
+ * @returns {number}
+ */
+function FinishMinute() {}
+/**
+ * @returns {number}
+ */
+function FinishSecond() {}
+/**
+ * @returns {number}
+ */
+function FinishMilliSecond() {}
+/**
+ * @returns {number}
+ */
+function CurMapMinute() {}
+/**
+ * @returns {number}
+ */
+function CurMapSecond() {}
+/**
+ * @returns {number}
+ */
+function CurMapMilliSecond() {}
+/**
+ * @returns {number}
+ */
+function TotalMapMinute() {}
+/**
+ * @returns {number}
+ */
+function TotalMapSecond() {}
+/**
+ * @returns {number}
+ */
+function TotalMapMilliSecond() {}
+/**
+ * @returns {number}
+ */
+function CurMapMinuteWithPitch() {}
+/**
+ * @returns {number}
+ */
+function CurMapSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function CurMapMilliSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function TotalMapMinuteWithPitch() {}
+/**
+ * @returns {number}
+ */
+function TotalMapSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function TotalMapMilliSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function LeftMapMinute() {}
+/**
+ * @returns {number}
+ */
+function LeftMapSecond() {}
+/**
+ * @returns {number}
+ */
+function LeftMapMilliSecond() {}
+/**
+ * @returns {number}
+ */
+function LeftMapMinuteWithPitch() {}
+/**
+ * @returns {number}
+ */
+function LeftMapSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function LeftMapMilliSecondWithPitch() {}
+/**
+ * @returns {number}
+ */
+function FinishMapYear() {}
+/**
+ * @returns {number}
+ */
+function FinishMapMonth() {}
+/**
+ * @returns {number}
+ */
+function FinishMapDay() {}
+/**
+ * @returns {number}
+ */
+function FinishMapHour() {}
+/**
+ * @returns {number}
+ */
+function FinishMapMinute() {}
+/**
+ * @returns {number}
+ */
+function FinishMapSecond() {}
+/**
+ * @returns {number}
+ */
+function FinishMapMilliSecond() {}
+/**
+ * @param {number} arg
+ * @returns {number}
+ */
+function MusicProgress(arg) {}
+/**
+ * @param {number} arg
+ * @returns {number}
+ */
+function TimeProgress(arg) {}
+/**
  * @param {string} expr
  * @returns {Object}
  */

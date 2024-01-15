@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReplayOption xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <saveEverytimeDied>false</saveEverytimeDied>
+  <saveEveryLevelComplete>false</saveEveryLevelComplete>
+  <saveRealComplete>true</saveRealComplete>
+  <saveBySpecifiedKey>true</saveBySpecifiedKey>
+  <saveWhen90P>false</saveWhen90P>
+  <hideEffectInDeathcam>false</hideEffectInDeathcam>
+  <disableOttoSave>true</disableOttoSave>
+  <showInputTiming>true</showInputTiming>
+  <specifiedKeyCode>292</specifiedKeyCode>
+  <specifiedDeathCamKeyCode>290</specifiedDeathCamKeyCode>
+  <noUsingKeyviewers />
+  <CanICollectReplayFile>0</CanICollectReplayFile>
+  <savedPath>C:/Program Files (x86)/Steam/steamapps/common/A Dance of Fire and Ice/A Dance of Fire and Ice_Data\Replays</savedPath>
+</ReplayOption>

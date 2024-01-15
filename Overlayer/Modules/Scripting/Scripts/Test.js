@@ -8,10 +8,7 @@ On.Rewind(() => {
 });
 
 const main = () => {
-  if (startFlag) {
-    startFlag = false;
-    milliseconds = 0;
-  }
+
 }
 
-// RegisterTag("test", main, true);
+RegisterTag("test", main, true);

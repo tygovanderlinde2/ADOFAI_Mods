@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <onShowHitMargin>true</onShowHitMargin>
+  <useShadow>true</useShadow>
+  <useBold>false</useBold>
+  <language>English</language>
+  <x>0.890000045</x>
+  <y>-0.041</y>
+  <size>35</size>
+  <align>2</align>
+  <showDecimal>0</showDecimal>
+  <zero>true</zero>
+  <text4>{value}</text4>
+</Setting>

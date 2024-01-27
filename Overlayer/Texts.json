@@ -11,7 +11,7 @@
     "LineSpacing": -25.0,
     "LineSpacingAdjustment": 25.0,
     "Active": false,
-    "IsExpanded": true,
+    "IsExpanded": false,
     "Gradient": false,
     "Font": "C:\\OverlayerFont\\MAPLESTORY_OTF_BOLD.OTF",
     "Name": "actualTime",
@@ -550,7 +550,7 @@
     "Gradient": false,
     "Font": "Default",
     "Name": "test",
-    "PlayingText": "{test}",
+    "PlayingText": "{LevelTime}\n{ResetTime}\n{CheckLevelStart}",
     "NotPlayingText": "",
     "Position": {
       "x": 0.5,
